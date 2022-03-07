@@ -1,2 +1,2 @@
-# pygame-2d-scroller
-a 2d scroller game built on the pygame engine
+# pygame-wip
+Various test games built on the pygame engine developed by Sai1boat and Swuggles
